@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ScrollGroups/Form1.cs) (VB: [Form1.vb](./VB/ScrollGroups/Form1.vb))
+* [Program.cs](./CS/ScrollGroups/Program.cs) (VB: [Program.vb](./VB/ScrollGroups/Program.vb))
+<!-- default file list end -->
 # How to scroll the Explorer view programmatically
 
 
